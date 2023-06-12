@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дз7C#/зачача47/bin/Debug/net6.0/зачача47
+/Users/macuser/Desktop/дз7C#/зачача47/bin/Debug/net6.0/зачача47.deps.json
+/Users/macuser/Desktop/дз7C#/зачача47/bin/Debug/net6.0/зачача47.runtimeconfig.json
+/Users/macuser/Desktop/дз7C#/зачача47/bin/Debug/net6.0/зачача47.dll
+/Users/macuser/Desktop/дз7C#/зачача47/bin/Debug/net6.0/зачача47.pdb
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.AssemblyInfo.cs
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.dll
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/refint/зачача47.dll
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.pdb
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/зачача47.genruntimeconfig.cache
+/Users/macuser/Desktop/дз7C#/зачача47/obj/Debug/net6.0/ref/зачача47.dll

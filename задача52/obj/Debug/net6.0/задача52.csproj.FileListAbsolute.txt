@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дз7C#/задача52/bin/Debug/net6.0/задача52
+/Users/macuser/Desktop/дз7C#/задача52/bin/Debug/net6.0/задача52.deps.json
+/Users/macuser/Desktop/дз7C#/задача52/bin/Debug/net6.0/задача52.runtimeconfig.json
+/Users/macuser/Desktop/дз7C#/задача52/bin/Debug/net6.0/задача52.dll
+/Users/macuser/Desktop/дз7C#/задача52/bin/Debug/net6.0/задача52.pdb
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.AssemblyInfo.cs
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.dll
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/refint/задача52.dll
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.pdb
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/задача52.genruntimeconfig.cache
+/Users/macuser/Desktop/дз7C#/задача52/obj/Debug/net6.0/ref/задача52.dll
